@@ -1,8 +1,7 @@
 {
-  "name": "-",
+  "name": "placement",
   "version": "1.0.0",
-  "description": "",
-  "main": "script.js",
+  "main": "demo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,5 +9,6 @@
   "license": "ISC",
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "description": ""
 }
